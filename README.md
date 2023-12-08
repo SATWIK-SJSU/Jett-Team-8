@@ -14,4 +14,5 @@ Bala Supriya Vanaparthi - UI/Ux, Wireframes
 Jayalakshmi Sri Sruthi Duvvuri - Backend
 Satwik Upadhyayula - Database, Backend
 Vineet Samudrala -  Fronted,Backend
-Link to your team's GitHub Repo Link to your team's Project Board (on Github) Link to your team's Project Journal (on Github) Link to your team's Google Sprint Task Sheet
+Link to your team's GitHub Repo Link to your team's Project Board (on Github) Link to your team's Project Journal (on Github) Link to your team's Google Sprint Task Sheet:
+https://docs.google.com/spreadsheets/d/1Iuwe3UGeIA1q5nb9tcp2bbG1GteQyTYf8MjP6d6BLUM/edit?usp=sharing
